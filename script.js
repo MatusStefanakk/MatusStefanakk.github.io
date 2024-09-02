@@ -13,3 +13,7 @@ function getData(){
 
     div.appendChild(row);
 }
+
+function login(){   
+
+}
